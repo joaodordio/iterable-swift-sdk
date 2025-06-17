@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/master.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/notification-extension/ITBNotificationServiceExtension.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/ITBNotificationServiceExtension.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/ITBNotificationServiceExtension.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/ITBNotificationServiceExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/ITBNotificationServiceExtension.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/notification-extension/NotificationContentParser.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationContentParser.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationContentParser.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationContentParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationContentParser.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/notification-extension/NotificationExtensionConstants.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationExtensionConstants.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationExtensionConstants.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationExtensionConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/NotificationExtensionConstants.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/notification-extension/TestFile.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/TestFile.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/TestFile.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/TestFile~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableAppExtensions.build/TestFile.swiftdeps"
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "": {
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/master.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Constants.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Constants.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Constants.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Constants.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/CommerceItem.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CommerceItem.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CommerceItem.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CommerceItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CommerceItem.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/IterableAction.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAction.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAction.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAction~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAction.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/IterableActionContext.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableActionContext.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableActionContext.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableActionContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableActionContext.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/IterableAttributionInfo.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAttributionInfo.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAttributionInfo.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAttributionInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAttributionInfo.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/IterableEmbeddedMessage.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedMessage.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedMessage.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedMessage.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/IterableInAppMessage.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppMessage.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppMessage.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppMessage.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/IterablePushNotificationMetadata.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePushNotificationMetadata.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePushNotificationMetadata.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePushNotificationMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePushNotificationMetadata.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Models/RetryPolicy.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RetryPolicy.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RetryPolicy.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RetryPolicy~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RetryPolicy.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Protocols/IterableAuthManagerProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAuthManagerProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAuthManagerProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAuthManagerProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAuthManagerProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Protocols/IterableEmbeddedManagerProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManagerProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManagerProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManagerProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManagerProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Protocols/IterableEmbeddedUpdateDelegate.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedUpdateDelegate.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedUpdateDelegate.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedUpdateDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedUpdateDelegate.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Protocols/IterableInAppManagerProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppManagerProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppManagerProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppManagerProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInAppManagerProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Protocols/IterableInboxViewControllerViewDelegate.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewControllerViewDelegate.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewControllerViewDelegate.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewControllerViewDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewControllerViewDelegate.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Utilities/AuthFailure.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailure.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailure.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailure~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailure.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Core/Utilities/AuthFailureReason.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailureReason.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailureReason.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailureReason~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthFailureReason.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/APNSTypeChecker.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/APNSTypeChecker.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/APNSTypeChecker.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/APNSTypeChecker~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/APNSTypeChecker.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/ActionRunner.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ActionRunner.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ActionRunner.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ActionRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ActionRunner.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/AppExtensionHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AppExtensionHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AppExtensionHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AppExtensionHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AppExtensionHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Auth.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Auth.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Auth.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Auth~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Auth.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/AuthManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AuthManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/ClassExtensions.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ClassExtensions.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ClassExtensions.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ClassExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ClassExtensions.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/CoreDataUtil.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CoreDataUtil.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CoreDataUtil.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CoreDataUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/CoreDataUtil.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/DataFieldsHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DataFieldsHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DataFieldsHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DataFieldsHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DataFieldsHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/DateProvider.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DateProvider.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DateProvider.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DateProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DateProvider.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/DeepLinkManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DeepLinkManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DeepLinkManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DeepLinkManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DeepLinkManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Dwifft/AbstractDiffCalculator.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AbstractDiffCalculator.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AbstractDiffCalculator.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AbstractDiffCalculator~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/AbstractDiffCalculator.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Dwifft/Dwifft+UIKit.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft+UIKit.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft+UIKit.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft+UIKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft+UIKit.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Dwifft/Dwifft.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Dwifft.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Dwifft/SectionedValues.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/SectionedValues.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/SectionedValues.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/SectionedValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/SectionedValues.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/EmbeddedHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/EmbeddedMessagingProcessor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingProcessor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingProcessor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingProcessor.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/EmbeddedMessagingSerialization.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingSerialization.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingSerialization.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingSerialization~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedMessagingSerialization.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/EmbeddedSessionManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedSessionManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedSessionManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedSessionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmbeddedSessionManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/EmptyEmbeddedManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyEmbeddedManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyEmbeddedManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyEmbeddedManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyEmbeddedManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/EmptyInAppManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyInAppManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyInAppManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyInAppManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/EmptyInAppManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/HealthMonitor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/HealthMonitor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/HealthMonitor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/HealthMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/HealthMonitor.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InboxImpressionTracker.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxImpressionTracker.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxImpressionTracker.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxImpressionTracker~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxImpressionTracker.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InboxMessageViewModel.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxMessageViewModel.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxMessageViewModel.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxMessageViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxMessageViewModel.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InboxSessionManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxSessionManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxSessionManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxSessionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxSessionManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InboxState.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxState.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxState.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxState~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxState.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InboxViewControllerViewModel.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModel.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModel.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModel.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InboxViewControllerViewModelProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InboxViewControllerViewModelView.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelView.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelView.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewControllerViewModelView.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InternalIterableAPI.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAPI.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAPI.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAPI.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/InternalIterableAppIntegration.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAppIntegration.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAppIntegration.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAppIntegration~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InternalIterableAppIntegration.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableAPICallRequest.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallRequest.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallRequest.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallRequest.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableAPICallTaskProcessor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallTaskProcessor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallTaskProcessor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallTaskProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPICallTaskProcessor.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableAPIMobileFrameworkDetector.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPIMobileFrameworkDetector.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPIMobileFrameworkDetector.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPIMobileFrameworkDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPIMobileFrameworkDetector.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableCoreDataPersistence.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableCoreDataPersistence.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableCoreDataPersistence.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableCoreDataPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableCoreDataPersistence.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableEmbeddedManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableHtmlMessageViewController.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableHtmlMessageViewController.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableHtmlMessageViewController.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableHtmlMessageViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableHtmlMessageViewController.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableInboxCell+Layout.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell+Layout.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell+Layout.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell+Layout~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell+Layout.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableNotifications.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableNotifications.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableNotifications.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableNotifications~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableNotifications.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterablePersistence.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePersistence.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePersistence.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterablePersistence.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableRequest.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequest.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequest.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequest.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableRequestUtil.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequestUtil.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequestUtil.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequestUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableRequestUtil.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableTask.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTask.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTask.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTask~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTask.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableTaskError.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskError.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskError.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskError~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskError.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableTaskManagedObject.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskManagedObject.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskManagedObject.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskManagedObject~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskManagedObject.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableTaskProcessor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskProcessor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskProcessor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskProcessor.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableTaskResult.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskResult.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskResult.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskResult.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableTaskRunner.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskRunner.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskRunner.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskRunner.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableTaskScheduler.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskScheduler.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskScheduler.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableTaskScheduler.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/IterableUserDefaults.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUserDefaults.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUserDefaults.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUserDefaults~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUserDefaults.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/MiscEmbeddedClasses.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscEmbeddedClasses.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscEmbeddedClasses.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscEmbeddedClasses~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscEmbeddedClasses.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/MiscInboxClasses.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscInboxClasses.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscInboxClasses.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscInboxClasses~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/MiscInboxClasses.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Models.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Models.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Models.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Models.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Network/NetworkConnectivityChecker.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityChecker.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityChecker.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityChecker~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityChecker.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Network/NetworkConnectivityManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkConnectivityManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Network/NetworkHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Network/NetworkMonitor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkMonitor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkMonitor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkMonitor.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Network/NetworkSession.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkSession.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkSession.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NetworkSession.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Pending.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Pending.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Pending.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Pending~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/Pending.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/RequestHandlerProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandlerProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandlerProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandlerProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandlerProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/RequestProcessorUtil.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorUtil.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorUtil.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorUtil.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/RequestSender.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestSender.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestSender.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestSender~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestSender.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/DependencyContainer.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainer.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainer.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainer.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/DependencyContainerProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainerProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainerProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainerProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DependencyContainerProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/IterableLogUtil.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogUtil.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogUtil.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogUtil.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/IterableUtil.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUtil.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUtil.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableUtil.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/Keychain/IterableKeychain.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableKeychain.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableKeychain.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableKeychain~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableKeychain.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/Keychain/KeychainWrapper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/KeychainWrapper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/KeychainWrapper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/KeychainWrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/KeychainWrapper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/LocalStorage.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorage.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorage.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorage.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/LocalStorageProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorageProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorageProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorageProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/LocalStorageProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/NotificationHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NotificationHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NotificationHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NotificationHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/NotificationHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/OrderedDictionary.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OrderedDictionary.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OrderedDictionary.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OrderedDictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OrderedDictionary.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/PersistenceHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/PersistenceHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/PersistenceHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/PersistenceHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/PersistenceHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/ResourceHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ResourceHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ResourceHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ResourceHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ResourceHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/UIColor+Extension.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/UIColor+Extension.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/UIColor+Extension.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/UIColor+Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/UIColor+Extension.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/Utilities/WebViewProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/WebViewProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/WebViewProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/WebViewProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/WebViewProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/api-client/ApiClient.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClient.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClient.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClient.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/api-client/ApiClientProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClientProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClientProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClientProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/ApiClientProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/api-client/Request/OfflineRequestProcessor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OfflineRequestProcessor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OfflineRequestProcessor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OfflineRequestProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OfflineRequestProcessor.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/api-client/Request/OnlineRequestProcessor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OnlineRequestProcessor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OnlineRequestProcessor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OnlineRequestProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/OnlineRequestProcessor.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/api-client/Request/RequestCreator.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestCreator.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestCreator.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestCreator~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestCreator.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/api-client/Request/RequestHandler.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandler.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandler.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestHandler.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/api-client/Request/RequestProcessorProtocol.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorProtocol.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorProtocol.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/RequestProcessorProtocol.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppCalculations.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppCalculations.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppCalculations.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppCalculations~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppCalculations.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppContentParser.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppContentParser.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppContentParser.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppContentParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppContentParser.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppDisplayer.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppDisplayer.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppDisplayer.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppDisplayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppDisplayer.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppHelper.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppHelper.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppHelper.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppHelper.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppInternal.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppInternal.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppInternal.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppInternal~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppInternal.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppManager+Functions.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager+Functions.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager+Functions.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager+Functions~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager+Functions.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppManager.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppManager.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppMessageParser.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppMessageParser.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppMessageParser.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppMessageParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppMessageParser.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppPersistence.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPersistence.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPersistence.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPersistence.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/Internal/in-app/InAppPresenter.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPresenter.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPresenter.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPresenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InAppPresenter.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/SDK/IterableAPI.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPI.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPI.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAPI.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/SDK/IterableAppIntegration.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAppIntegration.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAppIntegration.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAppIntegration~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableAppIntegration.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/SDK/IterableConfig.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableConfig.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableConfig.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableConfig.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/SDK/IterableLogging.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogging.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogging.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogging~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableLogging.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/SDK/IterableMessaging.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableMessaging.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableMessaging.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableMessaging~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableMessaging.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/ui-components/swiftui/InboxViewRepresentable.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewRepresentable.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewRepresentable.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/InboxViewRepresentable.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/ui-components/swiftui/IterableInboxView.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxView.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxView.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxView~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxView.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/ui-components/uikit/IterableEmbeddedView.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedView.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedView.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedView~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableEmbeddedView.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/ui-components/uikit/IterableInboxCell.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxCell.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/ui-components/uikit/IterableInboxNavigationViewController.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxNavigationViewController.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxNavigationViewController.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxNavigationViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxNavigationViewController.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/swift-sdk/ui-components/uikit/IterableInboxViewController.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewController.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewController.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/IterableInboxViewController.swiftdeps"
+  },
+  "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/resource_bundle_accessor.d",
+    "object": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/joao.dordio/dev/repos/codereview/forks/iterable-swift-sdk/.build/index-build/arm64-apple-macosx/debug/IterableSDK.build/resource_bundle_accessor.swiftdeps"
+  }
+}
