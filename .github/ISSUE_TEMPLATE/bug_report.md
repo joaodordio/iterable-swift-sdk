@@ -21,7 +21,7 @@ Please provide a clear and concise description of the issue you are experiencing
 
 #### 👤 Client Name: _Enter your organization or client name._
 #### 📦 Iterable SDK version: _Enter which version of Iterable SDK are you targeting_
-#### 📦 iOS SDK version: _Enter which version of iOS SDK are you experiencing this issue_ 
+#### 📲 iOS SDK version: _Enter which version of iOS SDK are you experiencing this issue_ 
 
 
 ---
